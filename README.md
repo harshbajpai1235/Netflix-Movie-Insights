@@ -32,6 +32,15 @@ This project explores a rich dataset of movie metadata to understand key pattern
 
 ---
 
+## 📷 Screenshots
+
+![Genre Distribution](images/genres.png)
+
+![Word Cloud](images/wordcloud.png)
+
+
+---
+
 ## 💼 Business Recommendations
 
 - **Leverage rising genres** like Sci-Fi and Animation to target younger, trend-focused viewers.
